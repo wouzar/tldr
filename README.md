@@ -2,7 +2,8 @@
 
 ## 27.01.18
 * https://shift.newco.co/what-its-like-to-be-a-woman-at-a-tech-conference-8a1a299ac82b Set of stories about attending tech conferences by a woman.
-* https://blog.couchbase.com/optimistic-or-pessimistic-locking-which-one-should-you-pick/ Differences and use cases of optimistic and pessimistic locks
+* https://blog.couchbase.com/optimistic-or-pessimistic-locking-which-one-should-you-pick/ Differences and use cases of optimistic and pessimistic locks.
+* https://developer.lightbend.com/blog/2017-05-17-atotm-clustering-and-remoting/index.html Gentle introduction to Akka clustering.
 
 ## 25.01.18 
 * https://blog.evernote.com/blog/2017/04/12/do-lists-vs-done-lists-jot-down-small-wins-amplify-success/ Done lists is a powerful instrument that helps you to stay motivated to do things.
