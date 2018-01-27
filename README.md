@@ -8,3 +8,4 @@
 
 ## 27.01.18
 * https://shift.newco.co/what-its-like-to-be-a-woman-at-a-tech-conference-8a1a299ac82b Set of stories about attending tech conferences by a woman.
+* https://blog.couchbase.com/optimistic-or-pessimistic-locking-which-one-should-you-pick/ Differences and use cases of optimistic and pessimistic locks
