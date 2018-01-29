@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 29.01.18
+* https://www.cakesolutions.net/teamblogs/2011/12/19/cake-pattern-in-depth Cake pattern in practice with test example.
 * https://blog.knoldus.com/2012/10/31/solid-principles-with-scala/ Examples of SOLID patterns implemented in Scala.
 
 ## 27.01.18
