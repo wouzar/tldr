@@ -1,5 +1,9 @@
 # Stuff I read, watch and listen to
 
+## 31.01.18
+* http://blog.dblazejewski.com/2018/01/aws-sqs-alpakka-akka-streams-go-reactive-part-1/ Intro to the series of posts about migration from AWS ElasticBeanstalk to AkkaStreams. Starts with explanation reactive model.
+* https://docs.docker.com/compose/gettingstarted/#step-8-experiment-with-some-other-commands Simple guide for using docker-compose with your own code and images attached.
+
 ## 30.01.18
 * https://www.lightbend.com/blog/introducing-akka-multi-data-center-clustering-and-persistence Extension for Akka Cluster to support effective communication for data centers distributed all over the world. New Persisting API is a commercial feature.
 
