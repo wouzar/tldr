@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 01.02.18
+* https://medium.com/@otto.chrons/what-makes-scalafiddle-so-fast-9a3edf33ed4d Amazing explanation about how Scalafiddle works and why it's so fast.
 * https://gorillalogic.com/blog/continuous-integration-systems-circleci-vs-travisci-vs-codeship-vs-jenkins-part-2/ Comparing popular CI tools.
 
 ## 31.01.18
