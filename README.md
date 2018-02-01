@@ -1,5 +1,8 @@
 # Stuff I read, watch and listen to
 
+## 01.02.18
+* https://gorillalogic.com/blog/continuous-integration-systems-circleci-vs-travisci-vs-codeship-vs-jenkins-part-2/ Comparing popular CI tools.
+
 ## 31.01.18
 * http://blog.dblazejewski.com/2018/01/aws-sqs-alpakka-akka-streams-go-reactive-part-1/ Intro to the series of posts about migration from AWS ElasticBeanstalk to AkkaStreams. Starts with explanation reactive model.
 * https://docs.docker.com/compose/gettingstarted/#step-8-experiment-with-some-other-commands Simple guide for using docker-compose with your own code and images attached.
