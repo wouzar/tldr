@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 02.02.18
+* https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/ One can only simulate exactly-once delivery by making recovering messages idempotent.
 * http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/ Pros and cons of using microservices pattern.
 
 ## 01.02.18
