@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 03.02.18
+* https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/ Kafka Streams designed to be simple, built on top of kafka itself (input and output are different topics), has a little overhead, solves "out-of-order" data problem, fully integrates the concepts of tables and streams, can be used with orchestration tools.
 * https://kafka.apache.org/10/documentation/streams/quickstart Examples of execution terminal tools to play with Kafka.
 * https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka RabbitMQ has better integration (languages, visualization/monitoring tools) and security, Kafka has better performance and more suitable for event sourcing model.
 
