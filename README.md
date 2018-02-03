@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 03.02.18
+* https://kafka.apache.org/10/documentation/streams/quickstart Examples of execution terminal tools to play with Kafka.
 * https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka RabbitMQ has better integration (languages, visualization/monitoring tools) and security, Kafka has better performance and more suitable for event sourcing model.
 
 ## 02.02.18
