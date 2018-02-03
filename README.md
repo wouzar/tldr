@@ -1,5 +1,8 @@
 # Stuff I read, watch and listen to
 
+## 03.02.18
+* https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka RabbitMQ has better integration (languages, visualization/monitoring tools) and security, Kafka has better performance and more suitable for event sourcing model.
+
 ## 02.02.18
 * https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/ One can only simulate exactly-once delivery by making recovering messages idempotent.
 * http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/ Pros and cons of using microservices pattern.
