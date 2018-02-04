@@ -1,5 +1,8 @@
 # Stuff I read, watch and listen to
 
+## 04.02.18
+* https://www.ctheu.com/2017/08/07/looking-at-kafka-s-consumers-offsets/ From Kafka 0.9 there is no need in storing offsets using Zookeeper, there is built-in topic for this purpose.
+
 ## 03.02.18
 * https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/ Kafka Streams designed to be simple, built on top of kafka itself (input and output are different topics), has a little overhead, solves "out-of-order" data problem, fully integrates the concepts of tables and streams, can be used with orchestration tools.
 * https://kafka.apache.org/10/documentation/streams/quickstart Examples of execution terminal tools to play with Kafka.
