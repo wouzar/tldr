@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 04.02.18
+* https://kafka.apache.org/10/documentation/streams/ Good explanation of KTables, KStreams and Windows.
 * https://www.ctheu.com/2017/08/07/looking-at-kafka-s-consumers-offsets/ From Kafka 0.9 there is no need in storing offsets using Zookeeper, there is built-in topic for this purpose.
 
 ## 03.02.18
