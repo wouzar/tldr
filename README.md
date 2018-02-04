@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 04.02.18
+* https://blog.ianholden.com/using-markdown-with-evernote/ First option doesn't work for me, but Marxico (markdown integration for Evernote) seems pretty cool.
 * http://eed3si9n.com/removing-commas-with-sbt-nocomma Sbt settings without commas.
 * https://kafka.apache.org/10/documentation/streams/ Good explanation of KTables, KStreams and Windows.
 * https://www.ctheu.com/2017/08/07/looking-at-kafka-s-consumers-offsets/ From Kafka 0.9 there is no need in storing offsets using Zookeeper, there is built-in topic for this purpose.
