@@ -1,6 +1,7 @@
 # Stuff I read, watch and listen to
 
 ## 06.02.18
+* http://calnewport.com/blog/2018/02/02/on-simple-productivity-systems-and-complex-plans/ Simplicity over powerfulness in productivity systems.
 * https://eclectic614387068.wordpress.com/2018/01/26/emacs-lisp-is-fun/ Emacs Lisp is not that difficult language.
 
 ## 04.02.18
