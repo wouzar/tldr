@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 07.02.18
+* https://mmhaskell.com/blog/2017/4/3/compile-driven-learning Write stubs for methods -> Implement one by one.
+
 ## 06.02.18
 * https://www.scotthyoung.com/blog/2018/01/31/set-goals-in-the-middle/ No need to set goals at the start, one can come up with them when they become clearer.
 * http://calnewport.com/blog/2018/02/02/on-simple-productivity-systems-and-complex-plans/ Simplicity over powerfulness in productivity systems.
