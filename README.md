@@ -1,5 +1,8 @@
 # Stuff I read, watch and listen to
 
+## 06.02.18
+* https://eclectic614387068.wordpress.com/2018/01/26/emacs-lisp-is-fun/ Emacs Lisp is not that difficult language.
+
 ## 04.02.18
 * https://blog.ianholden.com/using-markdown-with-evernote/ First option doesn't work for me, but Marxico (markdown integration for Evernote) seems pretty cool.
 * http://eed3si9n.com/removing-commas-with-sbt-nocomma Sbt settings without commas.
