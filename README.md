@@ -1,6 +1,8 @@
 # Stuff I read, watch and listen to
+_Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 06.02.18
+* https://www.scotthyoung.com/blog/2018/01/31/set-goals-in-the-middle/ No need to set goals at the start, one can come up with them when they become clearer.
 * http://calnewport.com/blog/2018/02/02/on-simple-productivity-systems-and-complex-plans/ Simplicity over powerfulness in productivity systems.
 * https://eclectic614387068.wordpress.com/2018/01/26/emacs-lisp-is-fun/ Emacs Lisp is not that difficult language.
 
