@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 07.02.18
+* http://blog.ezyang.com/2010/10/rapid-prototyping-in-haskell/ Meet Haskell the scripting language!
 * https://mmhaskell.com/blog/2017/4/3/compile-driven-learning Write stubs for methods -> Implement one by one.
 
 ## 06.02.18
