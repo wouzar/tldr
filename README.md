@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 07.02.18
+* https://medium.com/@sebastienphl/how-to-stop-forgetting-what-you-read-aa2126f722 Approach to the four levels of reading and note-taking
 * https://www.scotthyoung.com/blog/2015/06/22/stop-forgetting/ Recall by questions, not by statements.
 * http://blog.ezyang.com/2010/10/rapid-prototyping-in-haskell/ Meet Haskell the scripting language!
 * https://mmhaskell.com/blog/2017/4/3/compile-driven-learning Write stubs for methods -> Implement one by one.
