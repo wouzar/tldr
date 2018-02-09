@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 09.02.18
+* https://softwaremill.com/comparing-scala-relational-database-access-libraries/ Comparison of Slick/Doobie/Quill/ScalikeJDBC
+
 ## 07.02.18
 * https://medium.com/@sebastienphl/how-to-stop-forgetting-what-you-read-aa2126f722 Approach to the four levels of reading and note-taking
 * https://www.scotthyoung.com/blog/2015/06/22/stop-forgetting/ Recall by questions, not by statements.
