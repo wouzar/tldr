@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 13.02.18
+* https://anadea.info/blog/scala-implicits How compiler translates implicits.
+
 ## 09.02.18
 * https://softwaremill.com/comparing-scala-relational-database-access-libraries/ Comparison of Slick/Doobie/Quill/ScalikeJDBC
 
