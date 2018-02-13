@@ -3,6 +3,7 @@ _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of St√
 
 ## 13.02.18
 * https://anadea.info/blog/scala-implicits How compiler translates implicits.
+* https://vincibean.github.io/2018/02/07/Variance-in-Scala.html Interesting examples of variance in Scala.
 
 ## 09.02.18
 * https://softwaremill.com/comparing-scala-relational-database-access-libraries/ Comparison of Slick/Doobie/Quill/ScalikeJDBC
