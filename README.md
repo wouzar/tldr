@@ -2,7 +2,6 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 16.02.18
-* https://sookocheff.com/post/language/bulk-generating-cloze-deletions-for-learning-a-language-with-anki/ Cloze deletions method for learning languages combined with Anki and Amazon Polly.
 * https://sookocheff.com/post/api/optimistic-locking-in-a-rest-api/ Optimistic locking with ETag.
 * http://outworkers.com/blog/post/a-series-on-cassandra-part-1-getting-rid-of-the-sql-mentality What you should get into account before starting using Cassandra.
 * http://scala-lang.org/blog/2017/05/30/tribulations-canbuildfrom.html Problems CanBuildFrom solve and alternatives.
