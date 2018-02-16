@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 16.02.18
+* http://scala-lang.org/blog/2017/05/30/tribulations-canbuildfrom.html Problems CanBuildFrom solve and alternatives.
+
 ## 15.02.18
 * https://blog.softwaremill.com/dont-fear-the-main-1b9612ea6467 Let's make main method great again!
 
