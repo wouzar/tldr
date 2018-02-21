@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 21.02.18
+* http://scala-lang.org/blog/2018/02/09/collections-performance.html Performance in the new collections.
+
 ## 16.02.18
 * https://sookocheff.com/post/language/bulk-generating-cloze-deletions-for-learning-a-language-with-anki/ Cloze deletions method for learning languages combined with Anki and Amazon Polly.
 * https://sookocheff.com/post/api/optimistic-locking-in-a-rest-api/ Optimistic locking with ETag.
