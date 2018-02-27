@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 27.02.18
+* https://sookocheff.com/post/fp/why-functional-programming/ Why we should care about functional programming.
 * https://sookocheff.com/post/fp/what-is-functional-programming/ Comparison of imperative and functional programming paradygms.
 * https://alexn.org/blog/2018/02/12/in-defense-oofp.html Practical cases of better use of OOP over the FP. 
 
