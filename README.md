@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 27.02.18
+* https://alexn.org/blog/2018/02/12/in-defense-oofp.html Practical cases of better use of OOP over the FP. 
+
 ## 23.02.18
 * https://dzone.com/articles/advantages-of-scala Benefits of using Scala over Java.
 
