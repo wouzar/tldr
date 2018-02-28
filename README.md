@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 28.02.18
+* https://arstechnica.com/gadgets/2018/02/google-starts-a-push-for-cross-platform-app-development-with-flutter-sdk/ Google's SDK that allows to develop applications for both Android and iOS platforms.
+
 ## 27.02.18
 * https://www.youtube.com/watch?v=WaAPNSyyAWc Feature that enables usage of refs for streams in a similar fashion as ActorRef for Actor.
 * https://sookocheff.com/post/fp/why-functional-programming/ Why we should care about functional programming.
