@@ -3,6 +3,7 @@ _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of St√
 
 ## 03.04.18
 * https://www.cakesolutions.net/teamblogs/solving-problems-in-a-generic-way-using-shapeless Example of using Shapeless for calculating the depth of ADT.
+* https://www.beyondthelines.net/programming/reducing-type-class-boilerplate-with-shapeless/ Using Shapeless for reducing boilerplate while generating typeclasses.
 
 ## 28.02.18
 * https://arstechnica.com/gadgets/2018/02/google-starts-a-push-for-cross-platform-app-development-with-flutter-sdk/ Google's SDK that allows to develop applications for both Android and iOS platforms.
