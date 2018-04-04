@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 04.04.18
+* http://gigiigig.github.io/posts/2015/09/13/aux-pattern.html Simple Aux pattern implementation in Scala.
 * http://gigiigig.github.io/tlp-step-by-step/phantom-types.html Phantom types in a nutshell.
 
 ## 03.04.18
