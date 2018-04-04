@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 04.04.18
+* http://gigiigig.github.io/tlp-step-by-step/phantom-types.html Phantom types in a nutshell.
+
 ## 03.04.18
 * http://gigiigig.github.io/tlp-step-by-step/dependent-types.html Path dependent types in Scala.
 * https://www.beyondthelines.net/programming/reducing-type-class-boilerplate-with-shapeless/ Using Shapeless for reducing boilerplate while generating typeclasses.
