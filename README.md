@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 04.04.18
+* http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html How we can achieve functionality which gives inheritance from OOP languages in Haskell (typeclasses, lenses).
 * http://gigiigig.github.io/posts/2015/09/13/aux-pattern.html Simple Aux pattern implementation in Scala.
 * http://gigiigig.github.io/tlp-step-by-step/phantom-types.html Phantom types in a nutshell.
 
