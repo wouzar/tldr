@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 05.04.18 
+* http://calnewport.com/blog/2018/03/28/on-analog-social-media/ Successful stories about quitting social media in favor of more desirable activities.
+
 ## 04.04.18
 * https://youtu.be/_-J4YRI1rAw?list=WL Joe's Barnes talk about type level programming in Scala with examples (vectors, map, reduce, fold).
 * http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html How we can achieve functionality which gives inheritance from OOP languages in Haskell (typeclasses, lenses).
