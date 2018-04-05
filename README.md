@@ -1,7 +1,8 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
-## 05.04.18 
+## 05.04.18
+* https://medium.com/@NetflixTechBlog/netflix-flamescope-a57ca19d47bb Visualization tool for CPU profiling.
 * http://calnewport.com/blog/2018/03/28/on-analog-social-media/ Successful stories about quitting social media in favor of more desirable activities.
 
 ## 04.04.18
