@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 05.04.18
+* https://medium.com/@christianalfoni/lessons-learned-refactoring-codesandbox-io-from-redux-to-cerebral-40e9a5646281 Refactoring an online editor with switching from Redux to Cerebral with mobx-state-tree.
 * https://medium.com/@NetflixTechBlog/netflix-flamescope-a57ca19d47bb Visualization tool for CPU profiling.
 * http://calnewport.com/blog/2018/03/28/on-analog-social-media/ Successful stories about quitting social media in favor of more desirable activities.
 
