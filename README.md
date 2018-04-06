@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 06.04.18
+* https://medium.com/@PS_/image-processing-go-microservice-df423d1b8ddd Image processing using serverless and microservice approaches.
 * https://functional.works-hub.com/learn/generating-artwork-with-haskell-09371 Art creation with Haskell and Cargo (C++ library).
 * https://www.futurelearn.com/courses/functional-programming-haskell/0/steps/27247 Straightforward example of using Maybe monad in Haskell (reminds me for comprehensions in Scala).
 
