@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 06.04.18
+* https://www.futurelearn.com/courses/functional-programming-haskell/0/steps/27247 Straightforward example of using Maybe monad in Haskell (reminds me for comprehensions in Scala).
+
 ## 05.04.18
 * https://medium.com/@christianalfoni/lessons-learned-refactoring-codesandbox-io-from-redux-to-cerebral-40e9a5646281 Refactoring an online editor with switching from Redux to Cerebral with mobx-state-tree.
 * https://medium.com/@NetflixTechBlog/netflix-flamescope-a57ca19d47bb Visualization tool for CPU profiling.
