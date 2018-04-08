@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 8.04.18
+* https://www.youtube.com/watch?v=__zuECMFCRc Practical example (Excel to Scala) of building and refactoring API in a functional style.
+
 ## 06.04.18
 * https://medium.com/@PS_/image-processing-go-microservice-df423d1b8ddd Image processing using serverless and microservice approaches.
 * https://functional.works-hub.com/learn/generating-artwork-with-haskell-09371 Art creation with Haskell and Cargo (C++ library).
