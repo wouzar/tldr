@@ -1,7 +1,10 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
-## 8.04.18
+## 09.04.18
+* https://www.inc.com/scott-mautz/a-2-year-stanford-study-shows-astonishing-productivity-boost-of-working-from-home.html It turned out that working from home is a good option sometimes.
+
+## 08.04.18
 * https://www.youtube.com/watch?v=__zuECMFCRc Practical example (Excel to Scala) of building and refactoring API in a functional style.
 
 ## 06.04.18
