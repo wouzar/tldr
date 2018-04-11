@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 11.04.18
+* https://ewanvalentine.io/why-go-solves-so-many-problems-for-web-developers/ Golang is a low level language with many useful things out of the box.
+
 ## 10.04.18
 * https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312 Exhaustive list of advices to the beginner programmers.
 
