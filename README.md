@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 13.04.18
+* https://bjankie1.github.io/blog/ How speculative task (which starts if similar one haven't finished in a half of allocated time) solves performance troubles.
 * http://neilmitchell.blogspot.fi/2015/02/refactoring-with-equational-reasoning.html Refactoring Haskell code with incremental substitution and simplifying.
 
 ## 11.04.18
