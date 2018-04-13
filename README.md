@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 13.04.18
+* http://neilmitchell.blogspot.fi/2015/02/refactoring-with-equational-reasoning.html Refactoring Haskell code with incremental substitution and simplifying.
+
 ## 11.04.18
 * https://ewanvalentine.io/why-go-solves-so-many-problems-for-web-developers/ Golang is a low level language with many useful things out of the box.
 
