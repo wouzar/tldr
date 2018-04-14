@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 14.04.18
+* https://medium.com/@fintan.halpenny/coffee-curries-and-monads-my-journey-through-haskell-5a199bab7a3f Journey from learning to professional writing in Haskell.
+
 ## 13.04.18
 * https://bjankie1.github.io/blog/ How speculative task (which starts if similar one haven't finished in a half of allocated time) solves performance troubles.
 * http://neilmitchell.blogspot.fi/2015/02/refactoring-with-equational-reasoning.html Refactoring Haskell code with incremental substitution and simplifying.
