@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 15.04.18
+* https://argumatronic.com/posts/2018-04-07-monad-complaints.html Bad generalization leads to misconception (monad is not a pipe).
 * https://blog.roman-gonzalez.ca/post/172746394387/lightning-fast-ci-for-haskell-projects CircleCI is a good CI tool for your open source Haskell project.
 
 ## 14.04.18
