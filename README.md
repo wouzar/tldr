@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 15.04.18
+* https://blog.roman-gonzalez.ca/post/172746394387/lightning-fast-ci-for-haskell-projects CircleCI is a good CI tool for your open source Haskell project.
+
 ## 14.04.18
 * https://medium.com/@fintan.halpenny/coffee-curries-and-monads-my-journey-through-haskell-5a199bab7a3f Journey from learning to professional writing in Haskell.
 
