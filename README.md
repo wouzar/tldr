@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 16.04.18
+* http://www.bbc.com/future/story/20180405-why-people-collect-radioactive-objects Collecting radioactive object actually can be a hobby:)
+
 ## 15.04.18
 * https://youtu.be/Orm-jIIgVD0 Build simple web application with Spock (step by step with explanations of resolving types).
 * https://functional.works-hub.com/learn/property-based-integration-testing-using-haskell-6c25c Theoretical description of property based testing in Haskell.
