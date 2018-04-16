@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 16.04.18
+* https://dzone.com/articles/dont-install-kubernetes Using clouds for development with Kubernetes is actually cheaper and easier.
 * http://www.bbc.com/future/story/20180405-why-people-collect-radioactive-objects Collecting radioactive object actually can be a hobby:)
 
 ## 15.04.18
