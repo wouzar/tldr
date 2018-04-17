@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 17.04.18
+* http://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html How to gradually switch from any backend (Ruby as example) to Haskell Servant.
+
 ## 16.04.18
 * https://dzone.com/articles/dont-install-kubernetes Using clouds for development with Kubernetes is actually cheaper and easier.
 * http://www.bbc.com/future/story/20180405-why-people-collect-radioactive-objects Collecting radioactive object actually can be a hobby:)
