@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 21.04.18
+* https://blog.codeship.com/ensuring-containers-are-always-running-with-dockers-restart-policy/ Managing container reloading with different strategies. 
+
 ## 17.04.18
 * http://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html How to gradually switch from any backend (Ruby as example) to Haskell Servant.
 
