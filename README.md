@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 27.04.18
+* https://scala-lang.org/blog/2018/04/19/scala-3.html Scala 3 (Dotty) will be releazed in 2020.
+
 ## 21.04.18
 * https://blog.codeship.com/ensuring-containers-are-always-running-with-dockers-restart-policy/ Managing container reloading with different strategies. 
 
