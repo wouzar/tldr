@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 01.05.18
+* https://scalalaz.ru/series-42.html ScalaNE, FP meetings.
+
 ## 27.04.18
 * https://scala-lang.org/blog/2018/04/19/scala-3.html Scala 3 (Dotty) will be releazed in 2020.
 
