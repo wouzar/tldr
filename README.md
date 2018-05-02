@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 03.05.18
+* http://puntoblogspot.blogspot.com/2018/04/bootstrap-your-emacs-lisp-learning.html?m=1 Learn Elisp through the practice. 
+
 ## 02.05.18
 * https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/ Brief overview of existing build tools for Scala.
 
