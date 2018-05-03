@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 03.05.18
+* https://corecursive.com/012-erlang-and-distributed-systems-with-steven-proctor Erlang and its actor model.
 * https://corecursive.com/011-graphql-and-sangria-with-oleg-ilyenko GraphQL, its purpose, features and implementation for Scala - Sangria.
 * http://puntoblogspot.blogspot.com/2018/04/bootstrap-your-emacs-lisp-learning.html?m=1 Learn Elisp through the practice. 
 
