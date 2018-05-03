@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 04.05.18
+* https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html New macros with reflective API based on Tasty interchange format. 
+
 ## 03.05.18
 * https://corecursive.com/012-erlang-and-distributed-systems-with-steven-proctor Erlang and its actor model.
 * https://corecursive.com/011-graphql-and-sangria-with-oleg-ilyenko GraphQL, its purpose, features and implementation for Scala - Sangria.
