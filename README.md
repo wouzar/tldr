@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 04.05.18
+* https://scalalaz.ru/series-41.html Java 10, Dotty, Monix, Shims and other stuff.
 * https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html New macros with reflective API based on Tasty interchange format. 
 
 ## 03.05.18
