@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 05.05.18
+* https://akka.io/blog/news/2018/05/02/alpakka-team Alpakka and Akka Streams Kafka now have its own team.
+
 ## 04.05.18
 * https://scalalaz.ru/series-41.html Java 10, Dotty, Monix, Shims and other stuff.
 * https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html New macros with reflective API based on Tasty interchange format. 
