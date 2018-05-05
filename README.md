@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 05.05.18
+* https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f Higher kinded types are functions that take types and return other types.
 * https://blog.hackage.haskell.org/posts/2018-04-26-downtime.html Donwtime of Hackage, restoring strategy and suggested improvements for the future.
 * https://akka.io/blog/news/2018/05/02/alpakka-team Alpakka and Akka Streams Kafka now have its own team.
 
