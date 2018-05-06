@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 06.05.18
+* http://degoes.net/articles/effects-without-transformers Why monad transformers are bad on JVM and how to avoid performance issues with newtypes and typeclasses.
 * https://corecursive.com/009-throw-away-the-irrelevant-with-john-a-de-goes Polymorphic function definitions, variable names, monad transformers performance issues and Scalaz.
 
 ## 05.05.18
