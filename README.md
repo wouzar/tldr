@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 06.05.18
+* https://corecursive.com/009-throw-away-the-irrelevant-with-john-a-de-goes Polymorphic function definitions, variable names, monad transformers performance issues and Scalaz.
+
 ## 05.05.18
 * https://scalalaz.ru/series-40.html Local meetups, scalafmt, json libs and lots of fun:D. 
 * https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f Higher kinded types are functions that take types and return other types.
