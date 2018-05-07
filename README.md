@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 07.05.18
+* https://functional.works-hub.com/learn/two-years-of-functional-programming-in-javascript-lessons-learned-c9c57 Benefits and caveats of adopting FP techniques in Javascript.
+
 ## 06.05.18
 * http://degoes.net/articles/insufficiently-polymorphic Monomorphic code is harder to reason about and more error-prone due to variety of possible implementations.
 * http://degoes.net/articles/effects-without-transformers Why monad transformers are bad on JVM and how to avoid performance issues with newtypes and typeclasses.
