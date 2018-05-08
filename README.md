@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 08.05.18
+* https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/ Fun experience of playing a game with a six year old which is about discovering a function purpose by analysing input and output.
+
 ## 07.05.18
 * https://functional.works-hub.com/learn/two-years-of-functional-programming-in-javascript-lessons-learned-c9c57 Benefits and caveats of adopting FP techniques in Javascript.
 
