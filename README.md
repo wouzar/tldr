@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 09.05.18
+* https://blog.softwaremill.com/developing-visual-studio-code-extensions-c43a47321296 Process of creating a plugin for VSC is very easy and well-documented.
+
 ## 08.05.18
 * https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/ Fun experience of playing a game with a six year old which is about discovering a function purpose by analysing input and output.
 
