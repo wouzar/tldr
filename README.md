@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 10.05.18
+* https://functional.works-hub.com/learn/redesigning-redux-04f29 Rematch - pretty neat wrapper aroung Redux which simplifies API.
+
 ## 09.05.18
 * https://blog.softwaremill.com/developing-visual-studio-code-extensions-c43a47321296 Process of creating a plugin for VSC is very easy and well-documented.
 
