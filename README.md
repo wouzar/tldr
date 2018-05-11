@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 11.05.18
+* https://medium.com/bigpanda-engineering/refactoring-to-functional-patterns-in-scala-bf81e7abfe77 Make sure you wrote tests before refactoring your object oriented code to functional style.
+
 ## 10.05.18
 * https://functional.works-hub.com/learn/redesigning-redux-04f29 Rematch - pretty neat wrapper aroung Redux which simplifies API.
 
