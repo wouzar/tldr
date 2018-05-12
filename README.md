@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 12.05.18
+* https://functional.works-hub.com/learn/coffee-curries-and-monads-my-journey-through-haskell-ca800 "... lazy language" - "Sounds like my kind of language".
+
 ## 11.05.18
 * https://medium.com/bigpanda-engineering/refactoring-to-functional-patterns-in-scala-bf81e7abfe77 Make sure you wrote tests before refactoring your object oriented code to functional style.
 
