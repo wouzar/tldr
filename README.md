@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 12.05.18
+* http://travis.athougies.net/posts/2018-05-05-dynamic-programming-is-recursion.html Solve dynamic programming problems in Haskell with lazyness and recursion.
 * https://functional.works-hub.com/learn/coffee-curries-and-monads-my-journey-through-haskell-ca800 "... lazy language" - "Sounds like my kind of language".
 
 ## 11.05.18
