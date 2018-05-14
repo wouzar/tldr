@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 14.05.18
+* https://www.bleepingcomputer.com/news/security/security-flaw-impacts-electron-based-apps/ Electron based apps could be hacked via XSS attack.
+
 ## 13.05.18
 * https://medium.com/@alandevlin7/pure-functional-rest-api-with-http4s-7a38782a2a99 Basic example of using HTTP4s.
 
