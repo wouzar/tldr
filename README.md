@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 15.05.18
+https://akka.io/blog/2017/05/05/typed-intro Akka-Typed with new API and series of tutorials.
+
 ## 14.05.18
 * https://www.bleepingcomputer.com/news/security/security-flaw-impacts-electron-based-apps/ Electron based apps could be hacked via XSS attack.
 
