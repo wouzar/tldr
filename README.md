@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 16.05.18
+https://www.youtube.com/watch?v=a7R-2vtPLDM Introduction to Cabal.
+
 ## 15.05.18
 https://akka.io/blog/2017/05/05/typed-intro Akka-Typed with new API and series of tutorials.
 
