@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 18.05.18
+* https://scalalaz.ru/series-44.html Ammonite, Monix, Graal VM, top Scala repos and other stuff.
+
 ## 17.05.18
 * https://blog.jetbrains.com/idea/2018/05/intellij-idea-2018-2-early-access-program-is-open/ Touch bar support for Mac, better Gradle and Spring support, multiple Github account and many more.
 
