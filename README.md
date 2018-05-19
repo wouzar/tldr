@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 19.05.18
+* https://geirsson.com/post/2018/03/ide/ Wish list for an awesome IDE.
 * https://dzone.com/articles/10-reasons-to-learn-scala-and-functional-programmi?oid=facebook 10 Reasons Why Scala.
 
 ## 18.05.18
