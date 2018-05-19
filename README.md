@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 19.05.18
+* https://dzone.com/articles/10-reasons-to-learn-scala-and-functional-programmi?oid=facebook 10 Reasons Why Scala.
+
 ## 18.05.18
 * https://scalalaz.ru/series-44.html Ammonite, Monix, Graal VM, top Scala repos and other stuff.
 
