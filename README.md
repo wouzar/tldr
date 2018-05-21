@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 21.05.18
+* https://typelevel.org/blog/2018/05/09/product-with-serializable.html Extend abstract sealed trait with Product and Serializable to avoid inference issues.
+
 ## 19.05.18
 * https://geirsson.com/post/2018/03/ide/ Wish list for an awesome IDE.
 * https://dzone.com/articles/10-reasons-to-learn-scala-and-functional-programmi?oid=facebook 10 Reasons Why Scala.
