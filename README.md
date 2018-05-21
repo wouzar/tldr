@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 21.05.18
+* https://kazuhiro.github.io/scala/akka/logging/2016/03/20/actorlogging-vs-scala-logging-what-is-the-difference.html Use Akka logging if you need to keep the context of the logging information.
 * http://www.bbc.com/future/story/20180510-why-our-facial-expressions-dont-reflect-our-feelings Facial expression doesn't necessarily express emotion.
 * https://typelevel.org/blog/2018/05/09/product-with-serializable.html Extend abstract sealed trait with Product and Serializable to avoid inference issues.
 
