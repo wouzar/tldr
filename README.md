@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 21.05.18
+* http://www.bbc.com/future/story/20180510-why-our-facial-expressions-dont-reflect-our-feelings Facial expression doesn't necessarily express emotion.
 * https://typelevel.org/blog/2018/05/09/product-with-serializable.html Extend abstract sealed trait with Product and Serializable to avoid inference issues.
 
 ## 19.05.18
