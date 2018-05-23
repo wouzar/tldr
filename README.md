@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 23.05.18
+* https://blog.evernote.com/blog/2018/05/09/getting-the-most-out-of-your-favorite-work-apps/ Evernote has powerful integration capabilities.
+
 ## 22.05.18
 * https://singpolyma.net/2018/05/error-handling-in-haskell/ Enhanced errors with unexceptionalio.
 
