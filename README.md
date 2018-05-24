@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 24.05.18
+* https://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html Logging best practices.
+
 ## 23.05.18
 * https://blog.evernote.com/blog/2018/05/09/getting-the-most-out-of-your-favorite-work-apps/ Evernote has powerful integration capabilities.
 
