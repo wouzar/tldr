@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 25.05.18
+* https://viktorklang.com/blog/Futures-in-Scala-protips-5.html Use transform instead of chaining methods (map, filter) on Future.
+
 ## 24.05.18
 * https://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html Logging best practices.
 
