@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 26.06.18
+* https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1 Git-rebase introduces potential problems with code while using git-bisect.
 * https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had Introduction of git-rebase.
 
 ## 25.05.18
