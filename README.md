@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 26.06.18
+* https://www.scotthyoung.com/blog/2018/05/24/how-to-learn-social-skills/ Social skills are about 80% of listening and understanding a "vibe" around.
 * https://mijingo.com/blog/creating-and-applying-patch-files-in-git Git-patch changes into external file another developer can apply your changes from.
 * https://apility.io/2018/05/25/gdpr-lazy-block-european-users-cloudflare-workers The easiest way to GDPR compliance.
 * https://www.atlassian.com/git/tutorials/saving-changes/git-stash Git-stash in details.
