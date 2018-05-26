@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 26.06.18
+* https://apility.io/2018/05/25/gdpr-lazy-block-european-users-cloudflare-workers The easiest way to GDPR compliance.
 * https://www.atlassian.com/git/tutorials/saving-changes/git-stash Git-stash in details.
 * https://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination Git-bisect is a great tool for searching for the commit in which bug was introduced.
 * https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1 Git-rebase introduces potential problems with code while using git-bisect.
