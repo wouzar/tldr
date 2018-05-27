@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 27.06.18
+* https://functional.works-hub.com/learn/implicit-implications-part-1-implicit-parameters-098e0 Concept pattern, type classes and theorem prooving with implicits in Scala.
+
 ## 26.06.18
 * https://www.scotthyoung.com/blog/2018/05/24/how-to-learn-social-skills/ Social skills are about 80% of listening and understanding a "vibe" around.
 * https://mijingo.com/blog/creating-and-applying-patch-files-in-git Git-patch changes into external file another developer can apply your changes from.
