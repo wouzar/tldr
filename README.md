@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 03.07.18
+* https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 GraalVM allows to compile Scala applications ~1.3x faster.
+
 ## 27.06.18
 * https://functional.works-hub.com/learn/implicit-implications-part-1-implicit-parameters-098e0 Concept pattern, type classes and theorem prooving with implicits in Scala.
 
