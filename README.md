@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 23.08.18
+* https://finematics.com/actor-model-explained/ Brief introduction to actor model concept.
+
 ## 03.07.18
 * https://blog.samebug.io/are-there-exceptions-in-scala-8835fa50e96a Scala has lower WTF/kStars ratio in comparison with Kotlin and Java:)
 * https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 GraalVM allows to compile Scala applications ~1.3x faster.
