@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 24.08.18
+* https://ganges.usc.edu/pgroupW/images/a/a9/Serializarion_Framework.pdf Protobuf seems to be more efficient serialization protocol than Avro and Thrift.
+
 ## 23.08.18
 * https://medium.com/@abu_nadhr/streaming-data-from-postgresql-using-akka-streams-akka-http-and-doobie-203ab911097c An example of streaming a csv file with akka-streams.
 * https://finematics.com/actor-model-explained/ Brief introduction to actor model concept.
