@@ -2,11 +2,12 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 23.08.18
+* https://medium.com/@abu_nadhr/streaming-data-from-postgresql-using-akka-streams-akka-http-and-doobie-203ab911097c An example of streaming a csv file with akka-streams.
 * https://finematics.com/actor-model-explained/ Brief introduction to actor model concept.
 
 ## 03.07.18
 * https://blog.samebug.io/are-there-exceptions-in-scala-8835fa50e96a Scala has lower WTF/kStars ratio in comparison with Kotlin and Java:)
-* https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 GraalVM allows to compile Scala applications ~1.3x faster.
+* https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 GraalVM allows to compile Scala applications ~1.3x faster. 
 
 ## 27.06.18
 * https://functional.works-hub.com/learn/implicit-implications-part-1-implicit-parameters-098e0 Concept pattern, type classes and theorem prooving with implicits in Scala.
