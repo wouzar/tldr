@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 24.08.18
+* https://logz.io/learn/complete-guide-elk-stack/#additional-resources Very descriptive introduction to Elastic Stack (Beats, Logstash, Elasticsearch, Kibana).
 * https://ganges.usc.edu/pgroupW/images/a/a9/Serializarion_Framework.pdf Protobuf seems to be more efficient serialization protocol than Avro and Thrift.
 
 ## 23.08.18
