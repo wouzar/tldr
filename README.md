@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 25.08.18
+* https://www.slideshare.net/KileNiklawski/how-we-built-a-job-board-in-one-week-with-jhipster-kileniklawski-ipponusa Bootstrap your web application with JHipster in insanely short amount of time.
 * https://medium.com/@sderosiaux/are-you-up-to-date-7e4ebc10e61c Useful resources and approach in general if you want to be up to date in IT world.
 
 ## 24.08.18
