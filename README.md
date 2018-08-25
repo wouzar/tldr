@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 25.08.18
+* https://medium.com/@sderosiaux/are-you-up-to-date-7e4ebc10e61c Useful resources and approach in general if you want to be up to date in IT world.
+
 ## 24.08.18
 * https://logz.io/learn/complete-guide-elk-stack/#additional-resources Very descriptive introduction to Elastic Stack (Beats, Logstash, Elasticsearch, Kibana).
 * https://ganges.usc.edu/pgroupW/images/a/a9/Serializarion_Framework.pdf Protobuf seems to be more efficient serialization protocol than Avro and Thrift.
