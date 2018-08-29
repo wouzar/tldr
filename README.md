@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 29.08.18
+* https://medium.com/@sderosiaux/a-guide-to-introduce-scala-in-a-java-world-327b932699b4 What we hate about Java and why we should move to Scala.
+
 ## 25.08.18
 * https://sites.google.com/site/steveyegge2/you-should-write-blogs Four excuses that prevents you from starting a blog.
 * https://www.slideshare.net/KileNiklawski/how-we-built-a-job-board-in-one-week-with-jhipster-kileniklawski-ipponusa Bootstrap your web application with JHipster in insanely short amount of time.
