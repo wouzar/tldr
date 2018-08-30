@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 30.08.18
+* https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001 Scala Futures have disadvantages which make other alternatives (e.g. Monix Task or Cats IO) shine.
+
 ## 29.08.18
 * https://medium.com/@sderosiaux/a-guide-to-introduce-scala-in-a-java-world-327b932699b4 What we hate about Java and why we should move to Scala.
 
