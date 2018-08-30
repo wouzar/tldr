@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 30.08.18
+* https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part2 Typeclasses is a powerful way to designate behavior of the code without relying on specific implementation.
 * https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part1 High level of polymorphism helps to make your code less coupled.
 * https://alvinalexander.com/scala/how-to-control-scala-method-scope-object-private-package Specificators of access in Scala.
 * https://medium.com/@sderosiaux/why-referential-transparency-matters-7c179424dab5 Referential transparency makes code easier to refactor and to reason about.
