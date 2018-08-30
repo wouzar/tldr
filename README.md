@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 30.08.18
+* https://give.engineering/2018/08/24/instantiate-case-class-with-arbitrary-value.html Reflection usage for generating case class'es data (better performance cause it's runtime and readability than with scalacheck-shapeless).
 * https://kubernetes.io/docs/tutorials/kubernetes-basics/ Simple interactive tutorial on basics of Kubernetes (minicube).
 * https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part3 Problem with ineffective and SOE prone Monad Transformers is solvable with help of typeclasses.
 * https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part2 Typeclasses is a powerful way to designate behavior of the code without relying on specific implementation.
