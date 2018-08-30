@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 30.08.18
+* https://alvinalexander.com/scala/how-to-control-scala-method-scope-object-private-package Specificators of access in Scala.
 * https://medium.com/@sderosiaux/why-referential-transparency-matters-7c179424dab5 Referential transparency makes code easier to refactor and to reason about.
 * https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001 Scala Futures have disadvantages which make other alternatives (e.g. Monix Task or Cats IO) shine.
 
