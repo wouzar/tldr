@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 30.08.18
+* https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part3 Problem with ineffective and SOE prone Monad Transformers is solvable with help of typeclasses.
 * https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part2 Typeclasses is a powerful way to designate behavior of the code without relying on specific implementation.
 * https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part1 High level of polymorphism helps to make your code less coupled.
 * https://alvinalexander.com/scala/how-to-control-scala-method-scope-object-private-package Specificators of access in Scala.
