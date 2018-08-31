@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 31.08.18
+* http://www.lihaoyi.com/cask/ Minimalistic HTTP framework.
+
 ## 30.08.18
 * https://give.engineering/2018/08/24/instantiate-case-class-with-arbitrary-value.html Reflection usage for generating case class'es data (better performance cause it's runtime and readability than with scalacheck-shapeless).
 * https://kubernetes.io/docs/tutorials/kubernetes-basics/ Simple interactive tutorial on basics of Kubernetes (minicube).
