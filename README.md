@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 04.09.18
+* https://www.sderosiaux.com/articles/2015/05/09/the-comfort-zone-is-evil We must always keep up to learning things.
+
 ## 31.08.18
 * http://www.lihaoyi.com/cask/ Minimalistic HTTP framework.
 
