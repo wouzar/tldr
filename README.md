@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 06.09.18
+* https://medium.com/@fommil/scala-3-considered-as-a-new-programming-language-a335ff67e075 Scala 3 tends to be a completely new language.
+
 ## 04.09.18
 * https://www.sderosiaux.com/articles/2015/05/09/the-comfort-zone-is-evil We must always keep up to learning things.
 
