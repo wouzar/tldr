@@ -1,6 +1,18 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 18.09.18
+* https://www.youtube.com/watch?v=_AaTvX5iWCo Proper goals setting helps to rechallenge yourself, to get out from "boring zone", and what is important, not to go to "overwhelming zone".
+
+## 17.09.18
+* https://heapanalytics.com/blog/engineering/missing-scala-class-noclassdeffounderror Unpredictable closing of classloader which caused NoClassDefFoundError.
+
+## 16.09.18
+* https://www.scotthyoung.com/blog/2018/09/11/how-important-is-growth/ Progressive and consistent approaches to goals.
+
+## 11.09.18
+* https://medium.com/@ow/the-writers-ultimate-guide-to-notion-6bf90d1cf45b Usage of Notion for writers.
+
 ## 06.09.18
 * https://medium.com/@fommil/scala-3-considered-as-a-new-programming-language-a335ff67e075 Scala 3 tends to be a completely new language.
 
