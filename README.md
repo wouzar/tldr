@@ -1,6 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 20.09.18
+* https://www.skedulo.com/tech-blog/technology-scala-programming/ If you moved from Java/C++ to Scala, you presumably won't come back:)
+* https://www.vidyasource.com/blog/2018/09/18/the-business-case-for-functional-programming/ FP offers reusability, mathematical proofs and easier test setup. And it's actually easier than you think to adopt principles of FP.
+* https://scalalaz.ru/series-50.html Dotty fuzzing tool, IO, functional testing library TestZ.
+
 ## 18.09.18
 * https://www.youtube.com/watch?v=_AaTvX5iWCo Proper goals setting helps to rechallenge yourself, to get out from "boring zone", and what is important, not to go to "overwhelming zone".
 
