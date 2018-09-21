@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 21.09.18
+* http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/ An inspiring article about Rust's goodies.
 * https://www.codemunity.io/tutorials/dockerising-akka-http/ sbt-native-packager makes dockerising Scala application easier.
 * https://blog.softwaremill.com/new-pretty-id-generator-in-scala-commons-39b0fc6b6210 Generate user-friendly ids.
 
