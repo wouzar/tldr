@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 27.09.18
+* https://fs.blog/2015/08/william-deresiewicz-learn-how-to-think/ Concentration is the essence of creative thinking. Also, don't multitask, just don't.
+
 ## 21.09.18
 * http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/ An inspiring article about Rust's goodies.
 * https://www.codemunity.io/tutorials/dockerising-akka-http/ sbt-native-packager makes dockerising Scala application easier.
