@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 30.09.18
+* https://scalalaz.ru/series-51.html Migration from C# to Scala, Bazel, naming in FP.
+
 ## 27.09.18
 * https://fs.blog/2015/08/william-deresiewicz-learn-how-to-think/ Concentration is the essence of creative thinking. Also, don't multitask, just don't.
 
