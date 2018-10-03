@@ -2,6 +2,8 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 03.10.18
+* https://logz.io/blog/solr-vs-elasticsearch/ Good comparison of ES and Solr.
+* http://lucene.apache.org/solr/guide/7_5/solr-tutorial.html Introduction to Solr guide.
 * https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b What the strategy actually means.
 
 ## 30.09.18
