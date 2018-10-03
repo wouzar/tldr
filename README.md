@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 03.10.18
+* https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b What the strategy actually means.
+
 ## 30.09.18
 * https://scalalaz.ru/series-51.html Migration from C# to Scala, Bazel, naming in FP.
 
