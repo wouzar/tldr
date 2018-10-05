@@ -2,6 +2,8 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 05.10.18
+* https://alasconnect.github.io/blog/posts/2018-10-02-introducing-haskell-to-a-company.html Introducing Haskell to the company with its caveats.
+* https://dzone.com/articles/distributed-logging-architecture-for-microservices Logging practices in distributed world of microservices.
 * https://www.madewithtea.com/using-monix-with-kafka-avro-and-schema-registry.html Write your Monix serdes for Avro format for Kafka usage.
 * http://eed3si9n.com/super-shell-for-sbt Displaying current tasks in progress in sbt.
 * https://www.mungingdata.com/apache-spark/just-enough-scala Neat set of Scala features Spark developer need to know to start.
