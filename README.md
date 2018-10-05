@@ -1,6 +1,12 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 05.10.18
+* https://www.madewithtea.com/using-monix-with-kafka-avro-and-schema-registry.html Write your Monix serdes for Avro format for Kafka usage.
+* http://eed3si9n.com/super-shell-for-sbt Displaying current tasks in progress in sbt.
+* https://www.mungingdata.com/apache-spark/just-enough-scala Neat set of Scala features Spark developer need to know to start.
+* https://medium.com/se-notes-by-alexey-novakov/giter8-scala-microservice-template-134f40eff974 Making own g8 templates is actually easy.
+
 ## 03.10.18
 * https://logz.io/blog/solr-vs-elasticsearch/ Good comparison of ES and Solr.
 * http://lucene.apache.org/solr/guide/7_5/solr-tutorial.html Introduction to Solr guide.
