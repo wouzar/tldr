@@ -1,6 +1,12 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 06.10.18
+* https://lucene.apache.org/solr/guide/6_6/relevance.html Relevance concept in Solr.
+* https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events Usage of SSE from client/server sides.
+* https://streamdata.io/blog/server-sent-events/ What is Server-Side events.
+* https://www.scotthyoung.com/blog/2018/10/04/how-to-see-reality-as-it-is Parallel between drawing process and reality perception.
+
 ## 05.10.18
 * https://alasconnect.github.io/blog/posts/2018-10-02-introducing-haskell-to-a-company.html Introducing Haskell to the company with its caveats.
 * https://dzone.com/articles/distributed-logging-architecture-for-microservices Logging practices in distributed world of microservices.
