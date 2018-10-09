@@ -1,6 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 09.19.18
+* https://dev.to/aviaryan/why-you-should-do-competitive-programming-even-if-a-little-1hf8 Benefits of competitive programming.
+* https://dev.to/stegriff/how-glitch-taught-me-the-nodejs-stack-2mcp Glitch helped to learn some Node.
+* https://dev.to/tedhagos/if-i-knew-then-what-i-know-now-55pb 15 advices for junior dev.
+
 ## 06.10.18
 * https://lucene.apache.org/solr/guide/6_6/relevance.html Relevance concept in Solr.
 * https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events Usage of SSE from client/server sides.
