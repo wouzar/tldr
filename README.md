@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 11.10.18
+* http://hackage.haskell.org/package/turtle-1.5.12/docs/Turtle-Tutorial.html A comprehensive guide to Turtle library.
 * https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p It is possible via navigator.connection.effectiveType property to adapt frontend rendering to connection quality.
 * https://dev.to/iriskatastic/27-monthly-most-popular-js-repositories-bke Monthly popular js libraries.
 * http://www.haskellforall.com/2015/01/use-haskell-for-shell-scripting.html Scripting with Haskell and Turtle library.
