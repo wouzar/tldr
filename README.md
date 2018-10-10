@@ -2,6 +2,12 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 10.10.18
+* https://medium.com/@wiemzin/elevator-control-system-using-zio-c718ae423c58 Elevator logic problem implemented with scalaz-zio.
+* https://www.zdnet.com/article/microsoft-open-sources-its-entire-patent-portfolio Microsoft joins OIN and cross-lisenses more than 60k patents.
+* https://markatta.com/codemonkey/posts/akka-daytime-server Simple daytime server with Akka.
+* http://scalaprof.blogspot.com/2016/12/get-considered-harmful.html Inconsistency with "get" method behaviors in Scala.
+* https://medium.com/@taroleo/airframe-http-a-minimalist-approach-for-building-web-services-in-scala-743ba41af7f airframe-http a lightweight library for mapping HTTP requests to functions. Can be used over popular http libs (currently supports only Finagle).
+* https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html Haskell's mtl lib provides typeclasses for general monad types, not monad transformers.
 * https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images How Dropbox managed to add support for indexing images with text.
 * https://dotty.epfl.ch/blog/2018/10/10/10th-dotty-milestone-release.html Match types and other improvements in Dotty 0.10.0-RC1.
 
