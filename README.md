@@ -1,6 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 11.10.18
+* https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p It is possible via navigator.connection.effectiveType property to adapt frontend rendering to connection quality.
+* https://dev.to/iriskatastic/27-monthly-most-popular-js-repositories-bke Monthly popular js libraries.
+* http://www.haskellforall.com/2015/01/use-haskell-for-shell-scripting.html Scripting with Haskell and Turtle library.
+
 ## 10.10.18
 * https://medium.com/@wiemzin/elevator-control-system-using-zio-c718ae423c58 Elevator logic problem implemented with scalaz-zio.
 * https://www.zdnet.com/article/microsoft-open-sources-its-entire-patent-portfolio Microsoft joins OIN and cross-lisenses more than 60k patents.
