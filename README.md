@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 12.10.18
+* http://www.joachim-breitner.de/blog/735-The_magic_%E2%80%9CJust_do_it%E2%80%9D_type_class Library that "implements" functions based on it's type signatures.
 * https://np.reddit.com/r/haskell/comments/9layin/ann_haskell_code_explorer_tool_that_helps An amazing tool for exploring Haskell codebases.
 * https://www.scala-lang.org/blog/2018/10/04/scaladoc-tables.html Scala 2.12.7 allows to use markdown tables in Scaladocs.
 
