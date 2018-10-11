@@ -1,8 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
-## 11.10.18
+## 12.10.18
+* https://np.reddit.com/r/haskell/comments/9layin/ann_haskell_code_explorer_tool_that_helps An amazing tool for exploring Haskell codebases.
+* https://www.scala-lang.org/blog/2018/10/04/scaladoc-tables.html Scala 2.12.7 allows to use markdown tables in Scaladocs.
 
+## 11.10.18
 * https://www.snoyman.com/blog/2018/10/raii-better-than-bracket-pattern An approach that makes the bracket pattern in Haskell safer.
 * https://www.parsonsmatt.org/2018/10/02/small_types.html Restrict your types (pushing types forwards and backwards).
 * https://engineering.itpro.tv/2018/09/28/haskell-in-production-a-ghc-upgrade-success-story Story of upgrading project from GHC8.0 to GHC8.4.
