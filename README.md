@@ -2,6 +2,8 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 11.10.18
+
+* https://www.snoyman.com/blog/2018/10/raii-better-than-bracket-pattern An approach that makes the bracket pattern in Haskell safer.
 * https://www.parsonsmatt.org/2018/10/02/small_types.html Restrict your types (pushing types forwards and backwards).
 * https://engineering.itpro.tv/2018/09/28/haskell-in-production-a-ghc-upgrade-success-story Story of upgrading project from GHC8.0 to GHC8.4.
 * https://medium.com/@wiemzin/understanding-the-architecture-of-cassandra-6ca7a7397b88 Short overview of Cassandra DB.
