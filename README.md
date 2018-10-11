@@ -2,6 +2,9 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 11.10.18
+* https://www.parsonsmatt.org/2018/10/02/small_types.html Restrict your types (pushing types forwards and backwards).
+* https://engineering.itpro.tv/2018/09/28/haskell-in-production-a-ghc-upgrade-success-story Story of upgrading project from GHC8.0 to GHC8.4.
+* https://medium.com/@wiemzin/understanding-the-architecture-of-cassandra-6ca7a7397b88 Short overview of Cassandra DB.
 * http://hackage.haskell.org/package/turtle-1.5.12/docs/Turtle-Tutorial.html A comprehensive guide to Turtle library.
 * https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p It is possible via navigator.connection.effectiveType property to adapt frontend rendering to connection quality.
 * https://dev.to/iriskatastic/27-monthly-most-popular-js-repositories-bke Monthly popular js libraries.
