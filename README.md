@@ -2,6 +2,12 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 12.10.18
+* https://blog.mlab.com/2018/10/mlab-is-becoming-a-part-of-mongodb-inc Mongodb acquires MLab (followed by a migration to Atlas).
+* http://geekocephale.com/blog/2018/10/05/typeclasses Typeclasses and how they can be implemented in Scala.
+* http://geekocephale.com/blog/2018/10/06/algebras Algebras explained very well.
+* http://geekocephale.com/blog/2018/10/08/fp Overview of FP concepts.
+* https://blog.softwaremill.com/why-i-stepped-into-rust-ab093ff51cda How Javascript dev stepped into Rust (trying Haskell, Scala and Swift before).
+* https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b Static type checking in Python 3.6 (use mypy).
 * http://www.joachim-breitner.de/blog/735-The_magic_%E2%80%9CJust_do_it%E2%80%9D_type_class Library that "implements" functions based on it's type signatures.
 * https://np.reddit.com/r/haskell/comments/9layin/ann_haskell_code_explorer_tool_that_helps An amazing tool for exploring Haskell codebases.
 * https://www.scala-lang.org/blog/2018/10/04/scaladoc-tables.html Scala 2.12.7 allows to use markdown tables in Scaladocs.
