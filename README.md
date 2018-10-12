@@ -2,6 +2,11 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 12.10.18
+* https://contributors.scala-lang.org/t/better-type-inference-for-scala-send-us-your-problematic-cases/2410 Thread with type inference issues in Scala and Dotty.
+* https://skillsmatter.com/skillscasts/12439-haskell-ide-support-via-lsp HIE provides full-featured backend for editors to work with Haskell code.
+* https://www.scotthyoung.com/blog/2018/10/11/how-to-know-when-to-quit/ Set quitting points to accomplish more.
+* https://www.youtube.com/watch?v=GqmsQeSzMdw&t=2124s A constraint at one level leads to freedom and power at another level.
+* https://blogs.wsj.com/cio/2018/10/11/rivals-cloudera-hortonworks-merge-as-battle-with-iot-giants-looms-ceo-says A huge merge of two important big-data players.
 * https://blog.mlab.com/2018/10/mlab-is-becoming-a-part-of-mongodb-inc Mongodb acquires MLab (followed by a migration to Atlas).
 * http://geekocephale.com/blog/2018/10/05/typeclasses Typeclasses and how they can be implemented in Scala.
 * http://geekocephale.com/blog/2018/10/06/algebras Algebras explained very well.
