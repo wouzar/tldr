@@ -1,6 +1,10 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 13.10.18
+* https://blogs.nvidia.com/blog/2018/10/10/rapids-data-science-open-source-community Nvidia open-sources its platform for data science and machine learning.
+* https://hackernoon.com/goodbye-redux-26e6a27b3a0b GraphQL with serverside state replaces Redux with its local single-point state?
+
 ## 12.10.18
 * https://contributors.scala-lang.org/t/better-type-inference-for-scala-send-us-your-problematic-cases/2410 Thread with type inference issues in Scala and Dotty.
 * https://skillsmatter.com/skillscasts/12439-haskell-ide-support-via-lsp HIE provides full-featured backend for editors to work with Haskell code.
