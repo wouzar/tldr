@@ -1,6 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 19.10.18
+* https://blog.couchbase.com/kubernetes-operators-game-changer Operators in k8s and why they matters.
+* https://kubeless.io Serverless framework for k8s, defines function as a custom resource in kube.
+* https://www.datanami.com/2018/10/18/is-hadoop-officially-dead To stay on market Hadoop needs to adopt, to become more cloud-like.
+
 ## 13.10.18
 * https://blogs.nvidia.com/blog/2018/10/10/rapids-data-science-open-source-community Nvidia open-sources its platform for data science and machine learning.
 * https://hackernoon.com/goodbye-redux-26e6a27b3a0b GraphQL with serverside state replaces Redux with its local single-point state?
