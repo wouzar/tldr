@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 20.10.18
+* https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222 Useful tips on Kubernetes.
+
 ## 19.10.18
 * https://blog.couchbase.com/kubernetes-operators-game-changer Operators in k8s and why they matters.
 * https://kubeless.io Serverless framework for k8s, defines function as a custom resource in kube.
