@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 22.10.18
+* https://reactjs.org/blog/2018/10/01/create-react-app-v2.html New features in Create React App 2.0.
+
 ## 20.10.18
 * https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222 Useful tips on Kubernetes.
 
