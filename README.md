@@ -1,6 +1,22 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 15.02.19
+* https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-revisited-how-to-avoid-shooting-yourself-in-the-other-foot The most reliable thing to do when you encounter an error may be to just let it crash!
+
+## 31.10.18
+* https://spark.apache.org/docs/2.2.0/ml-pipeline.html Spark ML concepts and examples.
+
+## 30.10.18
+* https://developers.redhat.com/blog/2018/10/25/welcome-apache-kafka-to-the-kubernetes-era Kafka operator for Kubernetes from RedHat.
+* https://developers.google.com/web/updates/2018/10/nic70?linkId=58284450 Progressive web apps, credential management API and named workers in Chrome 70.
+
+## 29.10.18
+* https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects Kubernetes objects have state and status.
+* https://medium.com/value-stream-design/online-machine-learning-515556ff72c5 Online machine learning is difficult.
+* https://newsroom.ibm.com/Why-IBMs-acquisition-of-Red-Hat-is-a-game-changer-for-the-cloud-industry IBM acquires Red Hat.
+* https://blog.alexdevero.com/quick-react-tips-pt1 Keep components small, use stateless components and don't mix styling techniques.
+
 ## 22.10.18
 * https://reactjs.org/blog/2018/10/01/create-react-app-v2.html New features in Create React App 2.0.
 
