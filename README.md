@@ -1,6 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 22.02.19
+* https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html Await futures only in tests (not from ScalaTest 3) or when you have interfaces boundaries.
+* https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9 Be aware while using Java libraries that interact with Scala objects, reflection doesn't care that it's singleton!
+* https://doc.akka.io/docs/akka/2.5/common/circuitbreaker.html Circuit breaker helps to protect your resources while making requests to 3rd-party services which aren't responding for long time by setting timeouts.
+
 ## 15.02.19
 * https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-revisited-how-to-avoid-shooting-yourself-in-the-other-foot The most reliable thing to do when you encounter an error may be to just let it crash!
 
