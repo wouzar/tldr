@@ -2,6 +2,9 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 28.02.19
+* https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6 Compile-time configuration validation with pureconfig and refined.
+* https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0 Typesafe descriptive endpoints declarations that convertable to akka-http routes and http4s endpoints.
+* https://give.engineering/2018/06/05/vue-js-with-playframework.html sbt-vuefy plugin that enables hot-reloading for vue components.
 * https://skillsmatter.com/skillscasts/13247-scala-matters - New interesting RIO/ZIO approach to work with effects in Scala.
 * https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html Incremental improvements to compilation time (Bazel, remote caching, cloud devboxes, inc compilation) at Databricks.
 
