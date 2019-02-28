@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 28.02.19
+* https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html Incremental improvements to compilation time (Bazel, remote caching, cloud devboxes, inc compilation) at Databricks.
+
 ## 22.02.19
 * https://codeburst.io/getting-started-with-react-router-5c978f70df91 How to use react-router.
 * https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html Await futures only in tests (not from ScalaTest 3) or when you have interfaces boundaries.
