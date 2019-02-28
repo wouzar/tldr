@@ -2,6 +2,7 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 28.02.19
+* https://skillsmatter.com/skillscasts/13247-scala-matters - New interesting RIO/ZIO approach to work with effects in Scala.
 * https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html Incremental improvements to compilation time (Bazel, remote caching, cloud devboxes, inc compilation) at Databricks.
 
 ## 22.02.19
