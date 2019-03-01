@@ -2,6 +2,9 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 1.03.19
+* https://github.com/rickynils/scalacheck/blob/master/doc/UserGuide.md#stateful-testing User guide on ScalaCheck.
+* https://www.youtube.com/watch?time_continue=92&v=7xUGBreqpnA Example of generation a recursive data structure (list) with ScalaCheck.
+* https://typelevel.org/blog/2018/07/12/testing-in-the-wild.html Use-case of property based testing with specs2 and ScalaCheck.
 * https://www.47deg.com/blog/introducing-the-mu-open-source-library/ Mu, a functional library for doing gRPC stuff (in future HTTP also).
 
 ## 28.02.19
