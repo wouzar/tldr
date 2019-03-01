@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 1.03.19
+* https://www.47deg.com/blog/introducing-the-mu-open-source-library/ Mu, a functional library for doing gRPC stuff (in future HTTP also).
+
 ## 28.02.19
 * https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6 Compile-time configuration validation with pureconfig and refined.
 * https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0 Typesafe descriptive endpoints declarations that convertable to akka-http routes and http4s endpoints.
