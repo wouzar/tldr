@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 7.03.19
+https://dotty.epfl.ch/blog/2019/03/05/13th-dotty-milestone-release.html Experimental Spark support, top-level definitions, implicits redesigned and more in Dotty.
+
 ## 1.03.19
 * https://www.47deg.com/blog/mu-rpc-defining-messages-and-services/ Working example of using Mu - gRPC library.
 * https://github.com/rickynils/scalacheck/blob/master/doc/UserGuide.md#stateful-testing User guide on ScalaCheck.
