@@ -2,6 +2,8 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 11.03.19
+* https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23 Maintaining binary compatibility with MiMa.
+* https://scalanews.org/ru/2019/03/07/digest-10/ Scala digest, Dotty, TF and stuff.
 * https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d The niche for Final Tagless is constraining effect wrappers, but not for tracking effects in detail in an application.
 
 ## 7.03.19
