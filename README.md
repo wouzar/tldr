@@ -1,9 +1,13 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 12.03.19
+* https://underscore.io/blog/posts/2018/03/20/fs2.html Queues and topics explained.
+
 ## 11.03.19
 * https://blog.jetbrains.com/idea/2019/02/whats-new-in-intellij-idea-2019-1-eap-3/ Experimental Jetbrains Runtime 11, uncheck all for git changes, export configuration to json and some more.
 * https://medium.com/wix-engineering/scala-pattern-matching-apply-the-unapply-7237f8c30b41  Pattern matching on java's DateTime.
+* https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501 Drawbacks of Eff monad.
 * https://razborpoletov.com/2019/02/episode-200.html gradle for C++, OpenJDK 11, FoundationsDB, new IDEA version and stuff.
 * https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23 Maintaining binary compatibility with MiMa.
 * https://scalanews.org/ru/2019/03/07/digest-10/ Scala digest, Dotty, TF and stuff.
