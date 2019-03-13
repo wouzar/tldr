@@ -2,6 +2,9 @@
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
 ## 12.03.19
+* http://tonsky.me/blog/github-redesign/ Proposal for redesigning a Github website
+* https://medium.com/@krzysztof.otrebski/state-vs-stateful-actor-748486ba0271 Refactoring Actor's state to State monad (inside an actor).
+* https://www.47deg.com/blog/optimizing-github-api-access-with-fetch/ Fetch - library for efficient data access. Example with github.
 * https://underscore.io/blog/posts/2018/03/20/fs2.html Queues and topics explained.
 
 ## 11.03.19
