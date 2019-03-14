@@ -1,6 +1,13 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 14.03.19
+* https://mherman.org/blog/dockerizing-a-react-app/ Dockerize your React application
+
+## 13.03.19
+* https://www.bradcypert.com/comparing-kotlin-to-scala/ Comparison of Scala vs Kotlin
+* https://www.scotthyoung.com/blog/2019/03/06/entrepreneur-or-employee/ Entrepreneurship won't guarantee you rapid success and lots of money
+
 ## 12.03.19
 * http://tonsky.me/blog/github-redesign/ Proposal for redesigning a Github website
 * https://medium.com/@krzysztof.otrebski/state-vs-stateful-actor-748486ba0271 Refactoring Actor's state to State monad (inside an actor).
