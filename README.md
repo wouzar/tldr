@@ -1,6 +1,10 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 15.03.19
+* https://blog.jetbrains.com/idea/2019/03/brighten-up-your-day-add-color-to-intellij-idea/ Customize theme in Intellij products.
+* https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ Productive life of Wolphram Alpha's CEO.
+
 ## 14.03.19
 * https://mherman.org/blog/dockerizing-a-react-app/ Dockerize your React application
 
