@@ -1,6 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 12.07.21
+* https://www.youtube.com/watch?v=t4vKPhjcMZg - talk about 4-part documentation framework: tutorials (learning-oriented), how-tos (problem-oriented), reference (information-oriented), and discussions (understanding/explanation-oriented). Keep those things separate.
+* https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html - thoughts and advices on how to be a principal engineer.
+* https://brycedooley.com/refactoring-patterns/ - a set of code refactoring tips (some are JS-specific).
+
 ## 15.03.19
 * https://blog.jetbrains.com/idea/2019/03/brighten-up-your-day-add-color-to-intellij-idea/ Customize theme in Intellij products.
 * https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ Productive life of Wolphram Alpha's CEO.
