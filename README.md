@@ -1,7 +1,11 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 13.07.21
+* https://dayoneapp.com/blog/journaling-can-jumpstart-your-creativity - log all ideas and act upon them.
+
 ## 12.07.21
+* https://www.youtube.com/watch?v=kjIQaM_2Uag - 10 lessons for senior devs.
 * https://www.youtube.com/watch?v=t4vKPhjcMZg - talk about 4-part documentation framework: tutorials (learning-oriented), how-tos (problem-oriented), reference (information-oriented), and discussions (understanding/explanation-oriented). Keep those things separate.
 * https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html - thoughts and advices on how to be a principal engineer.
 * https://brycedooley.com/refactoring-patterns/ - a set of code refactoring tips (some are JS-specific).
