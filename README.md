@@ -1,6 +1,9 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 14.07.21
+* https://www.youtube.com/watch?v=R6zeikbTgVc 5 (+1) tips on writing clear and useful technical documentation.
+
 ## 13.07.21
 * https://dayoneapp.com/blog/journaling-can-jumpstart-your-creativity - log all ideas and act upon them.
 
