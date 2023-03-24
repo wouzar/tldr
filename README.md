@@ -1,6 +1,39 @@
 # Stuff I read, watch and listen to
 _Inspired by [project](https://github.com/chtefi/every-single-day-i-tldr) of Stéphane Derosiaux_
 
+## 3.10.22
+* https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/amp/ - if you feel your knowledge stagnates as for a senior dev, you need to change your job.
+
+## 2.10.22
+* https://www.infoq.com/news/2022/10/cloudflare-r2-ga/ - Cloudflare's R2 it's like S3 (with compatible API) but without read charge.
+
+## 1.10.22
+* https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/ - now you can make your Github profile private
+
+## 30.09.22
+* https://www.techspot.com/news/96096-meet-sql-processing-unit.html - databases are going to improve in compute direction, maybe we'll see dedicated chips soon.
+
+## 29.09.22
+* https://www.zdnet.com/article/programming-languages-its-time-to-stop-using-c-and-c-for-new-projects-says-microsoft-azure-cto/ - Rust gets adopted in automotive world
+
+## 28.09.22
+* https://www.infoworld.com/article/3674213/cppfront-project-aims-to-modernize-c.html - cppfront aimed to bring new syntax and more safety to C++
+
+## 26.09.22
+* https://www.infoq.com/news/2022/09/amazon-gzip-zstd/ - Zstd compression looks promising and is being used by AWS as replacement for Gzip in many places.
+
+## 23.09.22
+* Appreciation post for tools being created. Most notable for me are SQLite, JSON and Vim
+
+## 22.09.22
+* https://www.infoq.com/news/2022/09/java19-released/ - Java 19 introduces concurrency improvements (virtual threads, structured concurrency) and some other goodies (records, pattern matching).
+
+## 21.09.22
+* https://thenewstack.io/is-a-rust-rewrite-really-worth-it/ - you need to weight all pros and cons before rewriting your project to Rust
+
+## 20.09.22
+* https://blog.cloudflare.com/welcome-to-ga-week/ - CloudFlare is about to announce a bunch of new projects that are coming out from beta.
+
 ## 14.07.21
 * https://www.youtube.com/watch?v=R6zeikbTgVc 5 (+1) tips on writing clear and useful technical documentation.
 
